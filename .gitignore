@@ -5,6 +5,12 @@
 /target/
 /build/
 
+
+# Ignore Gradle build files and directories
+.gradle/
+build/
+
+
 # Ignore dependency directories
 /.idea/
 /.vscode/
