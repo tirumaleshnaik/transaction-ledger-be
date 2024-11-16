@@ -1,0 +1,21 @@
+# Ignore compiled files
+*.class
+
+# Ignore Maven and Gradle build folders
+/target/
+/build/
+
+# Ignore dependency directories
+/.idea/
+/.vscode/
+/node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore the .env or configuration files
+.env
+
+# Ignore temporary files
+.DS_Store
+
