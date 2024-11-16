@@ -10,6 +10,8 @@
 .gradle/
 build/
 
+build
+
 
 # Ignore dependency directories
 /.idea/
